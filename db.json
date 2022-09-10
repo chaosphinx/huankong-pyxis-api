@@ -1,0 +1,31 @@
+{
+    "GetRtValues": {
+        "status": "OK",
+        "desc": "Operation success",
+        "values": {
+            "ColumnTemp": 59.8,
+            "PreconcTemp": 0,
+            "status": "eRunning",
+            "modality": "eMeasure",
+            "measurerunning": "eStop",
+            "autocalibstatus": "eUnknown",
+            "error": "eOk",
+            "flwprec": 0,
+            "flwprectime": 346000,
+            "flwprecactive": "off",
+            "flwcalib": 0,
+            "flwcalibtime": -1,
+            "flwcalibactive": "off",
+            "flwgc": 0,
+            "flwgctime": -1,
+            "flwgcactive": "off",
+            "bottlecalibpressure": -9999.99,
+            "pidsignal": 12.34,
+            "tempbox": 12.3
+        }
+    },
+    "StartMeasure": {
+        "status": "OK",
+        "desc": "Start automatic measure executed"
+    }
+}

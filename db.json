@@ -1,5 +1,7 @@
 {
-    "gongYuanTestTest": false,
+    "gongYuanTestTest": {
+        "value": false
+    },
     "GetRtValues": {
         "status": "OK",
         "desc": "Operation success",

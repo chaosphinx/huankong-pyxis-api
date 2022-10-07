@@ -2,6 +2,9 @@
     "gongYuanTestTest": {
         "value": false
     },
+    "zhonKeNengJiangTest": {
+        "value": false
+    },
     "GetRtValues": {
         "status": "OK",
         "desc": "Operation success",

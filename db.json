@@ -11,6 +11,7 @@
         "values": {
             "ColumnTemp": 59.8,
             "PreconcTemp": 0,
+            "volprec": 0,
             "status": "eRunning",
             "modality": "eMeasure",
             "measurerunning": "eStop",

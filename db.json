@@ -175,7 +175,7 @@
         "status": "OK",
         "desc": "Operation success",
         "values": {
-            " record": [
+            "record": [
                 {
                     "measureid": 2741,
                     "method": "pyxistest",

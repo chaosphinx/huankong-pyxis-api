@@ -6398,5 +6398,20 @@
             "desc": "advanced",
             "token": 27141281
         }
+    },
+    "RestartApp": {
+        "status": "OK",
+        "desc": "Operation success"
+    },
+    "SetMeasureMode": {
+        "status": "OK",
+        "desc": "measure setting in Manual mode."
+    },
+    "GetMeasureMode": {
+        "status": "OK",
+        "desc": "Operation success",
+        "values": {
+            "Measuremode": "M"
+        }
     }
 }

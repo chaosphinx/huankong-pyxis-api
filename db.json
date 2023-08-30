@@ -4485,7 +4485,7 @@
             }
         }
     },
-    "GetMethod": {
+    "GetMethodNotUse": {
         "status": "OK",
         "desc": "Operation success",
         "values": {
